@@ -1,0 +1,7 @@
+version: '1.0'
+
+email_to_sms_config:
+  port: 465
+  smtp_server: 'smtp.gmail.com'
+  sender_email: '' # Enter sender email address here
+  password: '' # Enter email account password here

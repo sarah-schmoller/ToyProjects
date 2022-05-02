@@ -1,0 +1,5 @@
+version: '1.0'
+
+launch_config:
+  send_type: 'email_gateway'
+  receiver_numbers: [] # Enter receiver numbers here, without punctuation

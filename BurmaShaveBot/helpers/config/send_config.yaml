@@ -1,0 +1,9 @@
+version: '1.0'
+
+send_config:
+  email_to_sms_sender: '' # Enter sender email address here, if sending by email
+  twilio_purchased_number: '' # Enter sender Twilio number here, if sending by phone
+  email_suffixes:
+    'Verizon Wireless': '@vtext.com'
+    'T-Mobile USA, Inc.': '@tmomail.net'
+    'AT&T Wireless': '@mms.att.net'

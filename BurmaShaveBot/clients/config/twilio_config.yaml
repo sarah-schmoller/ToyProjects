@@ -1,0 +1,6 @@
+version: '1.0'
+
+twilio_config:
+  account_sid: '' # Enter Twilio account sid here
+  auth_token: '' # Enter Twilio auth token here
+  purchased_number: '' # Enter sender Twilio number here
